@@ -10,7 +10,7 @@ CapTeam은 캡스톤 프로젝트에서 발생하는 팀 구성과 운영의 불
 학생 설문 데이터를 기반으로 AI가 팀 추천안을 생성하고, 관리자가 추천안을 검토/수정/승인한 뒤 공지, 채팅, 프로젝트 기획서, 캡스톤 일지까지 하나의 서비스에서 관리할 수 있도록 합니다.
 
 ## Member
-**허재원** - Web · Design | <a href="https://github.com/kec08" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+**허재원** - Web · Design | <a href="https://github.com/ja2x0n" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 **박진욱** - Back-End | <a href="https://github.com/parkjinuk09" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
