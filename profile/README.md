@@ -1,4 +1,3 @@
-# CAPTEAM
 <picture>
   <img src="../logo.png" alt="팀 로고">
 </picture>
