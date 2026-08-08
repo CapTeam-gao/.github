@@ -1,4 +1,7 @@
 # CAPTEAM
+<picture>
+  <img src="../logo.png" alt="팀 로고">
+</picture>
 
 ## 💡 프로젝트 소개
 AI 기반 캡스톤 팀 자동생성 및 관리 올인원 서비스 **CapTeam**입니다.
