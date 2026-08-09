@@ -1,5 +1,5 @@
 <picture>
-  <img src="../logo.png" alt="팀 로고">
+  <img src="../CapTeam-logo.png" alt="팀 로고">
 </picture>
 
 ## 💡 프로젝트 소개
